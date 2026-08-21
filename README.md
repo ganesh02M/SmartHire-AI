@@ -174,21 +174,6 @@ This project is deployed as a monorepo with independently deployed frontend and 
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] Resume upload & parsing (PDF/DOCX)
-- [x] AI structured data extraction
-- [x] Hybrid ATS scoring engine
-- [x] Job description matcher
-- [x] AI cover letter generator
-- [x] Google OAuth
-- [x] Deployment (Vercel + Render + Atlas)
-- [ ] RAG-based interview question generator
-- [ ] Resume comparison (version A/B)
-- [ ] PDF export of analysis report
-- [ ] Chrome extension for one-click JD import
-
----
 
 ## 👤 Author
 
